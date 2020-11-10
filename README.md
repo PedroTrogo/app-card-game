@@ -1,4 +1,4 @@
-# projetofinal
+# App CardGame
 
 A new Flutter application.
 
